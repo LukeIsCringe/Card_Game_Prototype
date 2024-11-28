@@ -26,12 +26,12 @@ public class DeckManager : MonoBehaviour
 
     private void Start()
     {
-        eManaCardCount = 5; // 1
-        sDamageCardCount = 7; // 2
-        aoeDamageCardCount = 3; // 3
+        eManaCardCount = 4; // 1
+        sDamageCardCount = 8; // 2
+        aoeDamageCardCount = 4; // 3
         pShieldCardCount = 3; // 4
         pHealCardCount = 4; // 5
-        pBuffCardCount = 4; // 6
+        pBuffCardCount = 3; // 6
         pProtCardCount = 4; // 7
 
         drawCardCount = 0;
@@ -75,7 +75,7 @@ public class DeckManager : MonoBehaviour
         if (drawCardCount == 5)
         {
             drawCardCount = 0;
-            drawLimit = 2;
+            drawLimit = 3;
         }
     }
 

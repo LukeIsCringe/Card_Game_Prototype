@@ -19,6 +19,7 @@ public class EnemyManager : MonoBehaviour
 
     [SerializeField] private TMP_Text enemy1HP;
     [SerializeField] private TMP_Text enemy2HP;
+    [SerializeField] private GameObject enemy1HPGO, enemy2HPGO;
 
     public bool enemy1Alive;
     public bool enemy2Alive;
@@ -60,6 +61,7 @@ public class EnemyManager : MonoBehaviour
             enemy1Alive = false;
 
             enemy1Sprite.SetActive(false);
+            enemy1HPGO.SetActive(false);
 
             enemy1Targeted = false;
             enemy2Targeted = true;
@@ -68,6 +70,8 @@ public class EnemyManager : MonoBehaviour
         if (enemy2Health <= 0)
         {
             enemy2Sprite.SetActive(false);
+            enemy1HPGO.SetActive(false);
+
             enemy2Alive = false;
         }
 

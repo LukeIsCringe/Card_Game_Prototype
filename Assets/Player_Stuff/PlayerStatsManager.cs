@@ -26,6 +26,8 @@ public class PlayerStatsManager : MonoBehaviour
     {
         playerText.text = playerHealth.ToString();
         manaText.text = playerMana.ToString();
+
+        PlayerDeath();
     }
 
     private void PlayerDeath()

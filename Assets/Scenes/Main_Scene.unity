@@ -255,6 +255,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -526,6 +530,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -690,6 +698,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -853,6 +865,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -1686,6 +1702,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -2212,6 +2232,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -2456,6 +2480,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -3006,6 +3034,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -3174,6 +3206,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -3337,6 +3373,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -4026,6 +4066,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -4436,6 +4480,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -4735,6 +4783,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -5255,6 +5307,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -5418,6 +5474,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -5759,6 +5819,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -5923,6 +5987,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -6086,6 +6154,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -6568,6 +6640,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -7054,6 +7130,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -8025,6 +8105,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -8276,6 +8360,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -8566,6 +8654,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -8817,6 +8909,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -9148,6 +9244,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -9229,6 +9329,8 @@ MonoBehaviour:
   enemy2Sprite: {fileID: 355889367}
   enemy1HP: {fileID: 1229989578}
   enemy2HP: {fileID: 1548470096}
+  enemy1HPGO: {fileID: 1229989577}
+  enemy2HPGO: {fileID: 1548470095}
   enemy1Alive: 0
   enemy2Alive: 0
   enemy1Health: 0
@@ -9775,6 +9877,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -10026,6 +10132,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
@@ -10808,6 +10918,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 151226248}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 
       objectReference: {fileID: 1772599997}
@@ -10971,6 +11085,10 @@ PrefabInstance:
       propertyPath: cmGameObject
       value: 
       objectReference: {fileID: 151226248}
+    - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
+      propertyPath: dmGameObject
+      value: 
+      objectReference: {fileID: 397247607}
     - target: {fileID: 3887301166765194437, guid: f804fa7ba90da8e4c9ea97b7d773210c, type: 3}
       propertyPath: emGameObject
       value: 

@@ -47,7 +47,7 @@ public class Card : MonoBehaviour
     private void OnEnable()
     {
         if (!firstEnable)
-        {
+        { 
             CardSetter();
             firstEnable = true;
         }
@@ -92,10 +92,68 @@ public class Card : MonoBehaviour
             PlayerProtCard();
         }
     }
-
+    
     private void CardRandom()
     {
+        DeckManager dm = deckManager.GetComponent<DeckManager>();
+
         cardNum = Random.Range(1, 8);
+
+        if (cardNum == 1)
+        {
+            if (dm.eManaCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
+
+        if (cardNum == 2)
+        {
+            if (dm.sDamageCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
+
+        if (cardNum == 3)
+        {
+            if (dm.aoeDamageCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
+
+        if (cardNum == 4)
+        {
+            if (dm.pShieldCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
+
+        if (cardNum == 5)
+        {
+            if (dm.pHealCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
+
+        if (cardNum == 6)
+        {
+            if (dm.pBuffCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
+
+        if (cardNum == 7)
+        {
+            if (dm.pProtCardCount == 0)
+            {
+                CardRandom();
+            }
+        }
     }
 
     public void OnClick()
