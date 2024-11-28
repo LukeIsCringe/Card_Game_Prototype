@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c90b516f4da51614a8e129572e805bfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deckManager: {instanceID: 0}
+  - mana: {fileID: 2800000, guid: ed3b0cefa6b42d842b85b92be503b91f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
